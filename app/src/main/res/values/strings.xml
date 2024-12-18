@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Aston_intensiv_2</string>
+    <string name="accessibility_image_description">Image</string>
+    <string name="reset_btn">Reset</string>
 </resources>
